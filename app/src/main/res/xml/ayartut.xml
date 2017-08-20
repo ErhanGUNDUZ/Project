@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference android:title="ses" android:summary="Ses olsun mu?" android:key="ses"></SwitchPreference>
+    <SwitchPreference android:title="titresim" android:summary="Titreşim olsun mu?" android:key="titresim"></SwitchPreference>
+</PreferenceScreen>
